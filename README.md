@@ -7,7 +7,7 @@
 
 ![Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=giossaurus&theme=tokyonight&show_icons=true)
 
-### Tecnologias que eu mais uso no meu dia e estou aprendendo
+### Tecnologias que eu mais uso no meu dia e estou aprendendo:
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -17,4 +17,4 @@
 </div>
  
 
-#### Aspirante a programador, apaixonado por fotografia analógica, jrpgs e lingua russa.
+#### Aspirante a programador, apaixonado por fotografia analógica, jrpgs e língua russa.
