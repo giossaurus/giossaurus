@@ -10,7 +10,7 @@
 ![Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=giossaurus&theme=tokyonight&show_icons=true)
 <br /><br />
 
-## Tecnologias que eu mais uso no meu dia:
+## Tecnologias que eu mais uso:
 
 <div style="display: inline_block">
    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
