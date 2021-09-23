@@ -7,7 +7,8 @@
 
 <br />
 
-
+![Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=giossaurus&theme=tokyonight&show_icons=true)
+<br /><br />
 
 ## Linguagens e ferramentas:
 
