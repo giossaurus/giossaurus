@@ -11,6 +11,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giossaurus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br /><br />
 
+<img src="https://github.com/giossaurus/giossaurus/blob/output/github-contribution-grid-snake.svg" /></p>
+
 ## Linguagens e ferramentas:
 
 <div style="display: inline_block">
