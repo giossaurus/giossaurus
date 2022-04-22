@@ -1,38 +1,37 @@
-### Olá! Eu sou o Gio 👋
+### Olá! Eu sou o Gio! 👋
+<p> <em> <strong> he/him </strong> </em> </p>
+
+Atualmente sou estudante de <strong> Análise e Desenvolvimento de Sistemas </strong> da Faculdade Das Américas, trabalho em uma empresa de inovação no setor da industria automotiva e também sou GFX/ videomaker na 757 film.
+
+Como desenvolvedor júnior tenho foco em front-end e possuo alguns projetos em andamento disponibilizados pela Alura e OneBitCode utilizando os conhecimentos de HTML, CSS e Javascript.
+
+
+<h3> Você também pode me seguir nas redes sociais: </h3>
+<ul>
+   <li> LinkedIn: <strong>@giodelladea</strong> </li>
+   <li> Instagram: <strong>@solnyechniygio</strong> </li>
 <br />
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/solnyechniygio/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/giossaurus)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/giossaurus/)
-
-<br />
-
+   <br />
+   
 ![giossaurus's GitHub stats](https://github-readme-stats.vercel.app/api?username=giossaurus&theme=react&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giossaurus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br /><br />
 
-<img src="https://github.com/giossaurus/giossaurus/blob/output/github-contribution-grid-snake.svg" /></p>
-
 ## Linguagens e ferramentas:
 
 <div style="display: inline_block">
-   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Ee" />
+   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
  <br />
 
+<img src="https://github.com/giossaurus/giossaurus/blob/output/github-contribution-grid-snake.svg" /></p>
 
 <br />
 
-## Meu setup:
 
-
- <img align="center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-   <img align="center" alt="html5" 
-   src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
 ```diff
 
