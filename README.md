@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/giossaurus/giossaurus/blob/main/giobanner.png)
-<h3 align="center"> A brazilian systems analyst and developer student, I searched for something that I could be passionate about and luckly I found front-end development (I'm loving it).</h3>
+<h3 align="center"> A young brazilian systems analyst and developer student, I´m a motivated problem solver, aiming to develop database solutions that allow operational efficiency.</h3>
 
 <img align="right" alt="Computer" width="400" src="https://github.com/giossaurus/giossaurus/blob/main/gif-animation-1.gif"/>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working at **DEA Service and 757 film.**
 
-- 🌱 I’m currently learning **React, Angular, VueJs e NodeJs.**
+- 🌱 I’m currently learning **React and Angular.**
 
 - 💬 Ask me about **web development, interfaces and photography.**
 
-- 📫 How to reach me **giossaurus@gmail.com**
+- 📫 How to reach me: **giossaurus@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
