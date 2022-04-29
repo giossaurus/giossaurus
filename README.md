@@ -1,7 +1,7 @@
-[![MasterHead](https://github.com/giossaurus/giossaurus/blob/main/giobanner.png)
+![MasterHead](https://github.com/giossaurus/giossaurus/blob/main/giobanner.png)
 <h3 align="center">Brazilian developer student and a former enterpreneur, I searched for something I could be passionate about, and luckly I found front-end development (I'm loving it).</h3>
 
-<img align="right" alt="Computer" width="400" src="https://github.com/giossaurus/giossaurus/blob/main/giphy%20(1).gif"/>
+<img align="right" alt="Computer" width="400" src="https://github.com/giossaurus/giossaurus/blob/main/gif-animation-1.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giossaurus&label=Profile%20views&color=dd6387&style=flat" alt="giossaurus" /> </p>
 
