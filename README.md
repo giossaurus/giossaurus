@@ -1,37 +1,27 @@
-### Olá! Eu sou o Gio! 👋
-<p> <em> <strong> he/him </strong> </em> </p>
+[![MasterHead](https://github.com/giossaurus/giossaurus/blob/main/giobanner.png)
+<h3 align="center">Brazilian developer student and a former enterpreneur, I searched for something I could be passionate about, and luckly I found front-end development (I'm loving it).</h3>
 
-Atualmente sou estudante de <strong> Análise e Desenvolvimento de Sistemas </strong> da Faculdade Das Américas, trabalho em uma empresa de inovação no setor da industria automotiva e também sou GFX/ videomaker na 757 film.
+<img align="right" alt="Computer" width="400" src="https://github.com/giossaurus/giossaurus/blob/main/giphy%20(1).gif"/>
 
-Como desenvolvedor júnior tenho foco em front-end e possuo alguns projetos em andamento disponibilizados pela Alura e OneBitCode utilizando os conhecimentos de HTML, CSS e Javascript.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giossaurus&label=Profile%20views&color=dd6387&style=flat" alt="giossaurus" /> </p>
 
+- 🔭 I’m currently working at **DEA Service and 757 film.**
 
-<h3> Você também pode me seguir nas redes sociais: </h3>
-<ul>
-   <li> LinkedIn: <strong>@giodelladea</strong> </li>
-   <li> Instagram: <strong>@solnyechniygio</strong> </li>
-<br />
-   <br />
-   
-![giossaurus's GitHub stats](https://github-readme-stats.vercel.app/api?username=giossaurus&theme=react&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giossaurus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br /><br />
+- 🌱 I’m currently learning **React, Angular, VueJs e NodeJs.**
 
-## Linguagens e ferramentas:
+- 💬 Ask me about **web development, interfaces and photography.**
 
-<div style="display: inline_block">
-   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Ee" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
- <br />
+- 📫 How to reach me **giossaurus@gmail.com**
 
-<img src="https://github.com/giossaurus/giossaurus/blob/output/github-contribution-grid-snake.svg" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/giodelladea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giodelladea" height="30" width="40" /></a>
+<a href="https://instagram.com/solnyechniygio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="solnyechniygio" height="30" width="40" /></a>
+</p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giossaurus&show_icons=true&theme=dracula&locale=en&layout=compact" alt="giossaurus" /></p>
 
-
-```diff
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giossaurus&show_icons=true&theme=dracula&locale=en" alt="giossaurus" /></p>
