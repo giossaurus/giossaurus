@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/giossaurus/giossaurus/blob/main/giobanner.png)
-<h3 align="center"> A brazilian developer student and a former enterpreneur, I searched for something that I could be passionate about and luckly I found front-end development (I'm loving it).</h3>
+<h3 align="center"> A brazilian systems analyst and developer student, I searched for something that I could be passionate about and luckly I found front-end development (I'm loving it).</h3>
 
 <img align="right" alt="Computer" width="400" src="https://github.com/giossaurus/giossaurus/blob/main/gif-animation-1.gif"/>
 
