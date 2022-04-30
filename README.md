@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/giossaurus/giossaurus/blob/main/giobannernovo.jpg)
 <h3 align="center"> A young brazilian systems analyst and developer student, I´m a motivated problem solver, aiming to develop database solutions that allow operational efficiency.</h3>
 
-<img align="right" alt="Computer" width="400" src="https://github.com/giossaurus/giossaurus/blob/main/gif-animation-1.gif"/>
+<img align="right" alt="Computer" width="400" src="https://github.com/giossaurus/giossaurus/blob/main/computergionight.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giossaurus&label=Profile%20views&color=dd6387&style=flat" alt="giossaurus" /> </p>
 
