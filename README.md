@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/giossaurus/giossaurus/blob/main/giobanner_novo.png)
-<h3 align="center"> A young brazilian systems analyst and developer. I'm a motivated problem solver, aiming to develop database solutions that allow operational efficiency.</h3>
+<h4>  Developer with a background in business management. I am migrating from my position as CFO in a family-owned company in the automotive sector to the technology area with the objective of fulfilling myself in the professional field. <br> I also have a background in the audiovisual area as a partner and video editor at the production company 757 film, I carry the necessary combination of technique and creativity in this field for my projects as a front-end developer.</h4>
 
 <img align="right" alt="Gio Avatar" width="400" src="https://github.com/giossaurus/giossaurus/blob/main/gio_avatar.png"/>
 
