@@ -1,7 +1,7 @@
-![MasterHead](https://github.com/giossaurus/giossaurus/blob/main/giobannernovo.jpg)
+![MasterHead](https://github.com/giossaurus/giossaurus/blob/main/giobanner_novo.png)
 <h3 align="center"> A young brazilian systems analyst and developer. I'm a motivated problem solver, aiming to develop database solutions that allow operational efficiency.</h3>
 
-<img align="right" alt="Computer" width="400" src="https://github.com/giossaurus/giossaurus/blob/main/computergionight.png"/>
+<img align="right" alt="Gio Avatar" width="400" src="https://github.com/giossaurus/giossaurus/blob/main/gio_avatar.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giossaurus&label=Profile%20views&color=dd6387&style=flat" alt="giossaurus" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **web development, interfaces and photography.**
 
-- 📫 How to reach me: **giossaurus@gmail.com**
+- 📫 How to reach me: **gi_dea@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
