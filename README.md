@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente trabalhando na **DEA Service e 757 film.**
 
-- 🌱 Estudando sobre **React.**
+- 🌱 Estudando sobre **React, NodeJs e MySQL.**
 
 - 💬 Fale comigo sobre **desenvolvimento web, interfaces e fotografia.**
 
