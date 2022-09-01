@@ -5,7 +5,7 @@
 
 <img align="right" alt="Gio Avatar" width="400" src="https://github.com/giossaurus/giossaurus/blob/main/gio_avatar.png"/>
 
-- 🔭 Atualmente trabalhando na **DEA Service e 757 film.**
+- 🔭 Atualmente trabalhando  como CFO na **DEA Service.**
 
 - 🌱 Estudando sobre **React, NodeJs e MySQL.**
 
