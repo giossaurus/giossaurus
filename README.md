@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/giossaurus/giossaurus/blob/main/giobanner_novo.png)
+![MasterHead](https://github.com/giossaurus/giossaurus/blob/main/giobanner_novo23.png)
 <h4>  Desenvolvedor, aliando interfaces e aplicações de qualidade para uma melhor experiência na vida dos usuários , buscando sempre novas funcionalidades e tecnologias. Apaixonado por tecnologia e carregando a criatividade e o empenho na resolução de problemas para o melhor resultado possível.
 </h4>
 <br>
