@@ -6,11 +6,11 @@
 
 - 🔭 Atualmente trabalhando  como Consultor Financeiro na **DEA Service.**
 
-- 🌱 Estudando sobre **React, NodeJs e MySQL.**
+- 🌱 Estudando sobre **React, NodeJs e Python.**
 
-- 💬 Fale comigo sobre **desenvolvimento web, interfaces e fotografia.**
+- 💬 Fale comigo sobre **desenvolvimento web, interfaces e pesquisas.**
 
-- 📫 Como me contatar: **gi_dea@icloud.com**
+- 📫 Como me contatar: **meu site aqui**
 <br>
 
 <h3 align="left">Conecte-se comigo:</h3>
