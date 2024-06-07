@@ -13,12 +13,6 @@
 - 📫 Como me contatar: **meu site aqui**
 <br>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/giodelladea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giodelladea" height="30" width="40" /></a>
-<a href="https://instagram.com/solnyechniygio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="solnyechniygio" height="30" width="40" /></a><a href="https://twitter.com/giodelladea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giodelladea" height="30" width="40" /></a>
-</p>
-
 <br>
 
 <h3 align="left">Stacks e tecnologias:</h3>
