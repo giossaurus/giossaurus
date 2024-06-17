@@ -1,5 +1,9 @@
 ![MasterHead](https://github.com/giossaurus/giossaurus/blob/main/hello.png)
 
+<p align="center">
+  <img src="https://github.com/giossaurus/giossaurus/blob/main/about_me.png" />
+</p>
+
 - Graduating in **Computer Science and researching at Lab404**
 
 - Learning more about **React, NodeJs and Python**
