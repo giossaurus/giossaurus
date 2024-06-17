@@ -1,8 +1,45 @@
-![MasterHead](https://github.com/giossaurus/giossaurus/blob/main/giobanner_novo23.png)
-<h4>  Experienced web developer specialized in JavaScript, Node.js, Python, MySQL, and React. Acts as a researcher and freelancer, delivering innovative and efficient solutions to various areas Passionate about open-source projects and cloud technologies, with proven skills in creating dynamic and scalable web applications, coupled with a solid background in data analysis and backend development. Always seeking new challenges and opportunities to apply and expand technical knowledge, contributing to the development community and exploring new possibilities in cloud computing.</h4>
-<br>
+                         ______                     
+ _________        .---"""      """---.              
+:______.-':      :  .--------------.  :             
+| ______  |      | :                : |             
+|:______B:|      | |  Werlcome to my| |             
+|:______B:|      | |                | |             
+|:______B:|      | |  profile, I’m  | |             
+|         |      | |  Gio!.         | |             
+|:_____:  |      | |                | |             
+|    ==   |      | :                : |             
+|       O |      :  '--------------'  :             
+|       o |      :'---...______...---'              
+|       o |-._.-i___/'             \._              
+|'-.____o_|   '-.   '-...______...-'  `-._          
+:_________:      `.____________________   `-.___.-. 
+                 .'.eeeeeeeeeeeeeeeeee.'.      :___:
+           .'.eeeeeeeeeeeeeeeeeeeeee.'.         
+              :____________________________:
 
-<img align="right" alt="Gio Avatar" width="400" src="https://github.com/giossaurus/giossaurus/blob/main/gio_avatar.png"/>
+
+                                             _______________________
+   _______________________-------------------                       `\
+ /:--__                                                              |
+||< > |                                   ___________________________/
+| \__/_________________-------------------                         |
+|                                                                  |
+ |                       ABOUT ME                                  |
+ |                                                                  |
+ |      Experienced web developer specialized in Javascript,        |
+  |        Node.js, Python, MySQL and React. Acts as a researcher,   |
+  |      and freelancer, delivering innovative and efficient         |
+  |        solutions to various areas. Passionate about open-source  |
+  |      projects and cloud technologies with proven skills in       |
+   |       creating dynamic and scalable web applications coupled    |
+   |       with a solid background in data analysis and backend      |
+   |     development.Always seeking new challenges and opportunities.|
+  |                                              ____________________|_
+  |  ___________________-------------------------                      `\
+  |/`--_                                                                 |
+  ||[ ]||                                            ___________________/
+   \===/___________________--------------------------
+
 
 - Graduating in **Computer Science and researching at Lab404**
 
