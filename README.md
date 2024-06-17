@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/giossaurus/giossaurus/blob/main/hello.png" width="600" />
+<img src="https://github.com/giossaurus/giossaurus/blob/main/hellopic.png" width="600" />
 </p>
 <p align="center">
   <img src="https://github.com/giossaurus/giossaurus/blob/main/about_me.png" width="800" />
