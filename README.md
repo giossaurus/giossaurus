@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/giossaurus/giossaurus/blob/main/hello.png)
 <p align="center">
-  <img src="https://github.com/giossaurus/giossaurus/blob/main/about_me.png" />
+  <img src="https://github.com/giossaurus/giossaurus/blob/main/about_me.png" width="200" />
 </p>
 
 - Graduating in **Computer Science and researching at Lab404**
