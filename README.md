@@ -1,5 +1,4 @@
 ![MasterHead](https://github.com/giossaurus/giossaurus/blob/main/hello.png)
-
 <p align="center">
   <img src="https://github.com/giossaurus/giossaurus/blob/main/about_me.png" />
 </p>
