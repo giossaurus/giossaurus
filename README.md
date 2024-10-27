@@ -1,6 +1,6 @@
 ```kotlin
 $ giofetch
-```                    .,,uod8B8bou,,.                      
+                       .,,uod8B8bou,,.                      
               ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
          ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
          !...:!TVBBBRPFT||||||||||!!^^""'   ||||
@@ -46,7 +46,7 @@ Interests: "Linguistics, russian literature, piano and robotics"
       
 contacts
 --------
-LinkedIn; "linkedin.com/in/giodelladea"
-Blog; "solnyechniygio.com.br"
-Lattes; "giovannilopes.com.br"
+[LinkedIn](https://www.linkedin.com/in/giodelladea/)
+[Lattes]([https://www.linkedin.com/in/giodelladea/](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=ADA34E7E708EBDCBA62819414C22711D.buscatextual_0))
+[Blog](https://www.solnyechniygio.com.br)
 ```                                 
