@@ -1,4 +1,4 @@
-```kotlin
+```bash
 $ giofetch
                        .,,uod8B8bou,,.                      
               ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
@@ -38,7 +38,7 @@ Host: "Faculdade das Américas, São Paulo"
 Kernel: "Computer Science" 
 IDE: "VSCode, IntelliJ"
 Domains: "Full Stack"
-Languages.Programming: "Javascript, Typescript, Python, C"
+Languages.Programming: "Javascript, Typescript, Python, C and Java"
 Languages.Markup: "HTML, CSS, XML, Markdown"
 Languages.Human: "Portuguese, English, Italian and Russian"
 Work: "Backend volunteer @Señoritas Courier"
@@ -46,7 +46,7 @@ Interests: "Linguistics, russian literature, piano and robotics"
       
 contacts
 --------
-[LinkedIn](https://www.linkedin.com/in/giodelladea/)
-[Lattes]([https://www.linkedin.com/in/giodelladea/](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=ADA34E7E708EBDCBA62819414C22711D.buscatextual_0))
-[Blog](https://www.solnyechniygio.com.br)
+LinkedIn: linkedin.com/in/giodelladea
+Lattes: lattes.cnpq.br/0156910658144118
+Blog: solnyechniygio.com.br
 ```                                 
