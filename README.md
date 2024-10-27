@@ -33,12 +33,12 @@ $ giofetch
                                  
 giovanni della dea
 ---------
-OS: "MacOS Sequoia, Arch Linux
+OS: "MacOS Sequoia, Arch Linux"
 Host: "Faculdade das Américas, São Paulo"
 Kernel: "Computer Science" 
 IDE: "VSCode, IntelliJ"
 Domains: "Full Stack"
-Languages.Programming: "Javascript, Typescript, Python, C and Java"
+Languages.Programming: "Javascript, Typescript, Python and C"
 Languages.Markup: "HTML, CSS, XML, Markdown"
 Languages.Human: "Portuguese, English, Italian and Russian"
 Work: "Backend volunteer @Señoritas Courier"
