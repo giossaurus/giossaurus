@@ -1,19 +1,52 @@
-<p align="center">
-<img src="https://github.com/giossaurus/giossaurus/blob/main/hellopic.png" width="600" />
-</p>
-<p align="center">
-  <img src="https://github.com/giossaurus/giossaurus/blob/main/about_me.png" width="800" />
-</p>
-
-- Graduating in **Computer Science** and **researching at Lab404**
-
-- Learning more about **React, NodeJs and Python**
-
-- Talk to me about **web development, interfaces and web scraping**
-
-- [My personal website](https://solnyechniygio.com.br)
-<br>
-<h3 align="left">My tools:</h3>
-<p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="gcloud" width="40" height="40"/></a><br> 
-<br> 
-<br>
+```kotlin
+$ giofetch
+```                    .,,uod8B8bou,,.                      
+              ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
+         ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
+         !...:!TVBBBRPFT||||||||||!!^^""'   ||||
+         !.......:!?|||||!!^^""'            ||||
+         !.........||||                     ||||
+         !.........||||  ##                 ||||
+         !.........||||                     ||||
+         !.........||||                     ||||
+         !.........||||                     ||||
+         !.........||||                     ||||
+         `.........||||                    ,||||
+          .;.......||||               _.-!!|||||
+   .,uodWBBBBb.....||||       _.-!!|||||||||!:'
+!YBBBBBBBBBBBBBBb..!|||:..-!!|||||||!iof68BBBBBb....
+!..YBBBBBBBBBBBBBBb!!||||||||!iof68BBBBBBRPFT?!::   `.
+!....YBBBBBBBBBBBBBBbaaitf68BBBBBBRPFT?!:::::::::     `.
+!......YBBBBBBBBBBBBBBBBBBBRPFT?!::::::;:!^"`;:::       `.
+!........YBBBBBBBBBBRPFT?!::::::::::^''...::::::;         iBBbo.
+`..........YBRPFT?!::::::::::::::::::::::::;iof68bo.      WBBBBbo.
+  `..........:::::::::::::::::::::::;iof688888888888b.     `YBBBP^'
+    `........::::::::::::::::;iof688888888888888888888b.     `
+      `......:::::::::;iof688888888888888888888888888888b.
+        `....:::;iof688888888888888888888888888888888899fT!
+          `..::!8888888888888888888888888888888899fT|!^"'
+            `' !!988888888888888888888888899fT|!^"'
+                `!!8888888888888888899fT|!^"'
+                  `!988888888899fT|!^"'
+                    `!9899fT|!^"'
+                      `!^"'
+                                 
+giovanni della dea
+---------
+OS: "MacOS Sequoia, Arch Linux
+Host: "Faculdade das Américas, São Paulo"
+Kernel: "Computer Science" 
+IDE: "VSCode, IntelliJ"
+Domains: "Full Stack"
+Languages.Programming: "Javascript, Typescript, Python, C"
+Languages.Markup: "HTML, CSS, XML, Markdown"
+Languages.Human: "Portuguese, English, Italian and Russian"
+Work: "Backend volunteer @Señoritas Courier"
+Interests: "Linguistics, russian literature, piano and robotics"   
+      
+contacts
+--------
+LinkedIn; "linkedin.com/in/giodelladea"
+Blog; "solnyechniygio.com.br"
+Lattes; "giovannilopes.com.br"
+```                                 
