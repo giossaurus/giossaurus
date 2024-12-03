@@ -33,7 +33,7 @@ $ giofetch
                                  
 giovanni della dea
 ---------
-OS: "MacOS Sequoia, Arch Linux"
+OS: "MacOS Sequoia && Arch Linux"
 Host: "Faculdade das Américas, São Paulo"
 Kernel: "Computer Science" 
 IDE: "VSCode, IntelliJ"
