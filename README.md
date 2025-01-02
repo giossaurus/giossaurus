@@ -41,12 +41,12 @@ Domains: "Full Stack"
 Languages.Programming: "Javascript, Typescript, Python, Java and C"
 Languages.Markup: "HTML, CSS, XML, Markdown"
 Languages.Human: "Portuguese, English, Italian and Russian"
-Work: "Backend volunteer @Señoritas Courier"
+Work: "Backend developer @ Señoritas Courier"
 Interests: "Linguistics, russian literature, piano and robotics"   
       
 Contacts
 --------
 LinkedIn: linkedin.com/in/giodelladea
 Lattes: lattes.cnpq.br/0156910658144118
-Blog: solnyechniygio.com.br
+Personal website: solnyechniygio.com.br
 ```                                 
