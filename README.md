@@ -31,10 +31,10 @@ $ giofetch
                     `!9899fT|!^"'
                       `!^"'
                                  
-giovanni della dea
+Giovanni Della Dea
 ---------
-OS: "MacOS Sequoia && Arch Linux"
-Host: "Faculdade das Américas, São Paulo"
+OS: "MacOS Sequoia"
+Host: "Faculdade das Américas"
 Kernel: "Computer Science" 
 IDE: "VSCode, IntelliJ"
 Domains: "Full Stack"
@@ -44,7 +44,7 @@ Languages.Human: "Portuguese, English, Italian and Russian"
 Work: "Backend volunteer @Señoritas Courier"
 Interests: "Linguistics, russian literature, piano and robotics"   
       
-contacts
+Contacts
 --------
 LinkedIn: linkedin.com/in/giodelladea
 Lattes: lattes.cnpq.br/0156910658144118
