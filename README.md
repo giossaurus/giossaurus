@@ -42,7 +42,7 @@ Languages.Programming: "Javascript, Typescript, Python, Java and C"
 Languages.Markup: "HTML, CSS, XML, Markdown"
 Languages.Human: "Portuguese, English, Italian and Russian"
 Work: "Backend developer @ Señoritas Courier"
-Interests: "Linguistics, russian literature, piano and robotics"   
+Interests: "Linguistics, russian literature, piano and machine learning"   
       
 Contacts
 --------
