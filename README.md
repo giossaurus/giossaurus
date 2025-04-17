@@ -36,13 +36,13 @@ Giovanni Della Dea
 OS: "MacOS Sequoia"
 Host: "Faculdade das Américas"
 Kernel: "Computer Science" 
-IDE: "VSCode, IntelliJ"
-Domains: "Full Stack"
-Languages.Programming: "Javascript, Typescript, Python, Java and C"
+IDE: "VSCode, PyCharm, IntelliJ"
+Domains: "Data Science"
+Languages.Programming: "Python, R, Javascript, Typescript, Java and C"
 Languages.Markup: "HTML, CSS, XML, Markdown"
 Languages.Human: "Portuguese, English, Italian and Russian"
-Work: "Backend developer @ Señoritas Courier"
-Interests: "Linguistics, russian literature, piano and machine learning"   
+Work: "Data Engineer @ Xamaê Entretenimento
+Interests: "Cloud computing, data analytics and machine learning engineering"   
       
 Contacts
 --------
