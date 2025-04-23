@@ -1,5 +1,5 @@
 ```bash
-$ gio
+$ giofetch
                        .,,uod8B8bou,,.                      
               ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
          ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
