@@ -38,7 +38,7 @@ Host: "Faculdade das Américas"
 Kernel: "Computer Science" 
 IDE: "VSCode, PyCharm, IntelliJ"
 Domains: "Full Stack Web Development, Data Science, AI/ML"
-Languages.Programming: "Ruby, JavaScript, Typescript Python, R, Julia, Java and C"
+Languages.Programming: "JavaScript, Typescript, Ruby, Python, R, Julia, Java and C"
 Languages.Markup: "HTML, CSS, XML, Markdown"
 Languages.Human: "Portuguese, English, Italian and Russian"
 Work: "Software Engineer @ Xamaê Entretenimento
