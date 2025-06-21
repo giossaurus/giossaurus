@@ -41,7 +41,7 @@ Domains: "Full Stack Web Development, Data Science, AI/ML"
 Languages.Programming: "JavaScript, Typescript, Ruby, Python, R, Julia, Java and C"
 Languages.Markup: "HTML, CSS, XML, Markdown"
 Languages.Human: "Portuguese, English, Italian and Russian"
-Work: "Software Engineer @ Xamaê Entretenimento
+Work: "Software Engineer @ DEA SERVICE Components
 Interests: "Web development and machine learning"   
       
 Contacts
