@@ -36,7 +36,7 @@ Giovanni Della Dea
 OS: "MacOS Sequoia"
 Host: "Faculdade das Américas"
 Kernel: "Computer Science" 
-IDE: "VSCode, PyCharm, IntelliJ"
+IDE: "VSCode, PyCharm"
 Domains: "Full Stack Web Development, Data Science, AI/ML"
 Languages.Programming: "JavaScript, Typescript, Ruby, Python, R, Julia, Java and C"
 Languages.Markup: "HTML, CSS, XML, Markdown"
