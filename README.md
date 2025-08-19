@@ -42,7 +42,7 @@ Languages.Programming: "JavaScript, Typescript, Ruby, Python, R, Julia, Java and
 Languages.Markup: "HTML, CSS, XML, Markdown"
 Languages.Human: "Portuguese, English, Italian and Russian"
 Work: "Software Engineer @ DEA SERVICE Components
-Interests: "Web development and machine learning"   
+Interests: "AI integration and machine learning engineering"   
       
 Contacts
 --------
