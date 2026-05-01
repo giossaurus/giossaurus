@@ -37,12 +37,12 @@ OS: "MacOS Tahoe"
 Host: "Faculdade das Américas"
 Kernel: "Computer Science" 
 IDE: "VSCode, PyCharm"
-Domains: "Full Stack Web Development, Data Science, AI/ML"
-Languages.Programming: "JavaScript, Typescript, Ruby, Python, Java and C"
+Domains: "Full Stack Web Development, Data Science, AI/ML Engineering, RAG and Agents"
+Languages.Programming: "TypeScript, JavaScript, Python, Ruby, Java and C"
 Languages.Markup: "HTML, CSS, XML, Markdown"
-Languages.Human: "Portuguese, English, Italian and Russian"
+Languages.Human: "Portuguese, English, Italian, Russian and Hebrew"
 Work: "Fullstack Software Engineer @ PUCPR"
-Interests: "AI integration and machine learning engineering"   
+Interests: "AI research, models distillation, Linux modding and compilers"   
       
 Contacts
 --------
