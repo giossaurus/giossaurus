@@ -41,7 +41,7 @@ Domains: "Full Stack Web Development, Data Science, AI/ML Engineering, RAG and A
 Languages.Programming: "TypeScript, JavaScript, Python, Ruby, Java and C"
 Languages.Markup: "HTML, CSS, XML, Markdown"
 Languages.Human: "Portuguese, English, Italian, Russian and Hebrew"
-Work: "Fullstack Software Engineer @ PUCPR"
+Work: "Fullstack Software Engineer @ Apple Academy PUCPR"
 Interests: "AI research, models distillation, Linux modding and compilers"   
       
 Contacts
