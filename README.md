@@ -34,7 +34,7 @@ $ giofetch
 Giovanni Della Dea
 ---------
 OS: "MacOS Tahoe"
-Host: "Universidade Federal da Bahias"
+Host: "Universidade Federal da Bahia"
 Kernel: "Computer Science" 
 IDE: "VSCode, PyCharm"
 Domains: "Full Stack Web Development, Data Science, AI/ML Engineering, RAG and Agents"
