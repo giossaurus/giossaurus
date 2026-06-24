@@ -33,7 +33,7 @@ $ giofetch
                                  
 Giovanni Della Dea
 ---------
-OS: "MacOS Tahoe"
+OS: "MacOS Tahoe & NixOS"
 Host: "Universidade Federal da Bahia"
 Kernel: "Computer Science" 
 IDE: "VSCode, PyCharm"
